@@ -6,5 +6,5 @@
 -	**Funcionalidad obligatoria 2:** Sara Katherine Cristancho Páez
 -	**Funcionalidad opcional:** David Alejandro Cortés Marín
 -	**Preguntas del grupo y Poster:** Camilo Eduardo Camacho Lara
--	**Video:** Hannah Estefanía Méndez Rojas / Thomas Rincón Giralso
+-	**Video:** Hannah Estefanía Méndez Rojas / Thomas Rincón Giraldo
 -	**README:** Todo el grupo
